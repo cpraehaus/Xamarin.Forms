@@ -120,6 +120,7 @@
     <Compile Include="PerformanceTrackerRenderer.cs" />
     <Compile Include="RegistrarValidationService.cs" />
     <Compile Include="SampleNativeControl.cs" />
+    <Compile Include="Tests\PlatformTestHelper.cs" />
     <Compile Include="Tests\PlatformTestSettings.cs" />
     <Compile Include="Tests\TestingPlatformService.cs" />
     <Compile Include="_2489CustomRenderer.cs" />

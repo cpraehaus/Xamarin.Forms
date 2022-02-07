@@ -10,6 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)CollectionViewGroupTypeIssue.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers\IPlatformTestHelper.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Issue10124.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Issue12603.xaml.cs">
       <DependentUpon>Issue12603.xaml</DependentUpon>
@@ -53,6 +54,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Issue14801.xaml.cs">
       <DependentUpon>Issue14801.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)IssueN220207.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Issue8606.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Issue15066.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Issue8804.xaml.cs">
